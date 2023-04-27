@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Practice-Your-Self
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Web application that converts speech from the microphone to text and make it available to You.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```bash
+  clone this repo in your local system
+```
+```bash
+  npm install
+```
 
-### `npm test`
+```bash
+npm run start
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Dependencies
 
-### `npm run build`
+- React
+- Chakra-UI
+- react-speech-recognition
+- react-use-clipboard
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage
 
-### `npm run eject`
+- click on start listening button when you want to speak.
+- click on stop listening button when you want to stop speak.
+- for copy the text first you have to click on the text after that click on copy button then Your text will be copied.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contributing
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p align="center">
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Hello fellow developers,
 
-## Learn More
+I'm excited to share my project with you and invite you to contribute. As I continue to work on this project, I know there may be areas where I am missing something or could use some additional expertise.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+If you have ideas for improving the project, please don't hesitate to reach out and share them. Whether it's suggesting a new feature, improving the codebase, or simply offering feedback, I welcome all contributions.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+I believe that working collaboratively can help us create something truly great, and I'm grateful for any and all contributions to this project.
 
-### Code Splitting
+Thank you for your time, and I look forward to working with you.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Best,
+`` Saurav Kumar ``
+</p>
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<img src="https://user-images.githubusercontent.com/104342116/234745660-db434053-f7f7-458f-b2c8-d22ef7ff5843.png" alt="Project-image"/>
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
