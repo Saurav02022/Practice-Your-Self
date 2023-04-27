@@ -1,6 +1,10 @@
 # Practice-Your-Self
 
-A Web application that converts speech from the microphone to text and make it available to You.
+"Practice-Your-Self" is a user-friendly web application designed to help individuals improve their speaking skills. With the click of a button, users can start and stop speaking.
+
+To use the app, simply click on the "Start Listening" button when you are ready to speak. Once you have finished speaking, click on the "Stop Listening" button.If you want to save your text, simply click on the text to select it, and then click on the "Copy" button to copy it to your clipboard.
+
+Whether you are practicing for a presentation, interview, or just want to improve your speaking skills, "Practice-Your-Self" is the perfect tool to help you achieve your goals. With its user-friendly interface, you'll be speaking like a pro in no time!
 
 ## Table of Contents
 
@@ -28,14 +32,6 @@ npm run start
 - Chakra-UI
 - react-speech-recognition
 - react-use-clipboard
-
-
-
-## Usage
-
-- click on start listening button when you want to speak.
-- click on stop listening button when you want to stop speak.
-- for copy the text first you have to click on the text after that click on copy button then Your text will be copied.
 
 ## Contributing
 
